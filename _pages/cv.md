@@ -32,7 +32,7 @@ Education
 Work experience
 ======
 * July 2019 – April 2020: Teaching assistance University of Turin
-  * Teachin support for undergraduate Statistics course at the Economics Faculty 
+  * Teaching support for undergraduate Statistics course at the Economics Faculty 
  
 IT Skills
 ======
