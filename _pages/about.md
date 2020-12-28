@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About me
+=====
+
 Hi there, I am Patric Dolmeta, a first year Phd student in Statistics and computer science at [Bocconi University](https://www.unibocconi.it).
 
 Research Interests
